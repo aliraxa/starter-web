@@ -13,7 +13,7 @@ adding just some sample text
 
 ## How to Contribute
 
-adding instructions for developers to contribute
+adding instructions for developers to contribute -- issue pull request
 
 ### Copyrught
 2020 ali
