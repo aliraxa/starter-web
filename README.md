@@ -14,3 +14,6 @@ adding just some sample text
 ## How to Contribute
 
 adding instructions for developers to contribute
+
+### Copyrught
+2020 ali
