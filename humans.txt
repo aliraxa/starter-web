@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ali Raza  ali.raza@timegroup.ae @aliraxa
 
 # THANKS
 
