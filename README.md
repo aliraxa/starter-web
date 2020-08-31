@@ -9,7 +9,7 @@
 
 ## Deployment
 
-adding just some sample text
+adding just some sample text - you need to deploy in CI/CD manner
 
 ## How to Contribute
 
