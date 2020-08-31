@@ -16,4 +16,4 @@ adding just some sample text
 adding instructions for developers to contribute -- issue pull request
 
 ### Copyrught
-2020 ali
+2020 ali - All rights reserved
