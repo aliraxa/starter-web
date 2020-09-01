@@ -10,7 +10,6 @@
     Thanks to all my student
     Please review if you like it
     changing remote branch then use fetch
-    2nd try - only fetch and check status
 
 # TECHNOLOGY COLOPHON
 
