@@ -9,6 +9,7 @@
 
     Thanks to all my student
     Please review if you like it
+    changing remote branch then use fetch
 
 # TECHNOLOGY COLOPHON
 
